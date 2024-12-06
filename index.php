@@ -1,6 +1,6 @@
 <?php
 // التوكن الخاص بالبوت
-$token = '7531992102:AAGF8dYep_inWa3U0ZWEAfa1wgA2Koj-6jU';
+$token = '7841668520:AAGUs3OaFl_9YU_saRLqcxLaURnWjWFDAmM';
 $api_url = "https://api.telegram.org/bot$token/";
 
 // تخزين الرصيد وسجل الإجازات
